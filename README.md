@@ -1,3 +1,4 @@
+
 # Disease Prediction using Machine Learning
 
 ## Project Overview
@@ -28,3 +29,6 @@ pip install -r requirements.txt
 Run the program:
 
 python disease_model.py
+=======
+# CodeAlpha_Disease_Prediction
+ML project to predict disease using medical dataset
